@@ -1,7 +1,7 @@
 # Environment Setup
 
 ## Clone the Project
-`git clone git@github.com:hussain-alhassan/insurance.git`
+`git clone git@github.com:hussain-alhassan/insurance.git && cd insurance`
 ## Create a Virtual Environment
 * Run `virtualenv venv -p python3` (to create a virtual environment with python3 virsion)
 * Activate the virtual environment `source venv/bin/activate`
